@@ -1,0 +1,32 @@
+Steps to disable Windows Defender real-time protection:
+
+1. Open Windows Security:  
+   Click Start, type Windows Security, and open it.
+
+2. Go to Virus & Threat Protection:  
+   Click Virus & threat protection in the sidebar.
+
+3. Manage Settings:  
+   Click Manage settings under Virus & threat protection settings.
+
+4. Turn off Real-time protection:  
+   Toggle the Real-time protection switch to Off.
+
+5. Turn off Cloud-delivered protection (optional):  
+   Toggle Cloud-delivered protection to Off.
+
+6. Turn off Automatic sample submission (optional):  
+   Toggle Automatic sample submission to Off.
+
+Steps to disable Google Chrome "No Protection" warnings:
+
+1. Open Google Chrome.
+
+2. In the address bar, type:  
+   chrome://settings/security
+
+3. Under "Safe Browsing," select "No protection (not recommended)."
+
+4. Confirm any warning prompts.
+
+Note: Disabling protection in Windows Defender and Chrome reduces your security risk. Only do this temporarily and if you trust the files you download.
